@@ -1,0 +1,33 @@
+body{
+  background-color: black;
+  color: white;
+}
+#nome{
+  color: blue;
+  position: absolute;
+  margin-top: 8px;
+  margin-left: 20px;
+}
+#imagem{
+  width: 400px;
+  height: 200px;
+  margin-top: -20px;
+}
+
+#ins{
+  color: blue;
+  list-style-image: url("./imagens/Insta.png");
+}
+#twi{
+  color: blue;
+  list-style-image: url("./imagens/Twitter.png");
+}
+#git{
+  color:blue;
+  list-style-image: url("./imagens/GitHub.png");
+}
+
+ul{
+  margin-top:50px;
+  position: absolute;
+}
